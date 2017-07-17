@@ -1,0 +1,9 @@
+import classexp
+import log as lg
+import os
+import time
+log = lg.log()
+log.emailget()
+send_clients = []
+lista_analises = []
+email_send = []
